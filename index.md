@@ -4,4 +4,6 @@ You can use the [editor on GitHub](https://github.com/Locsey/Locsey.github.io/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-$\sum\limits_{i=1}^{n}\varphi(i) = \sum\limits_{i=1}^{n}$
+## 
+\sum\limits_{i=1}^{n}\varphi(i) = \sum\limits_{i=1}^{n}
+##
